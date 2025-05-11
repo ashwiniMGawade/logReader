@@ -23,6 +23,7 @@ A Golang application that parses logs and provides useful information about IP a
 ```bash
 git clone https://github.com/ashwiniMGawade/logReader.git
 cd logReader
+git checkout master
 ```
 
 2. Install dependencies:
